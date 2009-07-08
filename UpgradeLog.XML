@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MarcwareWB">
+</Property><Property Name="Solution File" Value="D:\home\Code\MarcwareWB\MarcwareWB.sln">
+</Property><Property Name="Date" Value="Sunday, July 05, 2009">
+</Property><Property Name="Time" Value="19:00 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MarcwareWB.sln" Description="File successfully backed up as D:\home\Code\MarcwareWB\Backup\MarcwareWB.sln">
+</Event><Event ErrorLevel="0" Project="MarcwareWB" Source="MarcwareWB.csdproj" Description="Project file successfully backed up as D:\home\Code\MarcwareWB\Backup\MarcwareWB.csdproj">
+</Event><Event ErrorLevel="0" Project="MarcwareWB" Source="MarcwareWB.csdproj.user" Description="Project user file successfully backed up as D:\home\Code\MarcwareWB\Backup\MarcwareWB.csdproj.user">
+</Event><Event ErrorLevel="0" Project="MarcwareWB" Source="Airplane.cs" Description="File successfully backed up as D:\home\Code\MarcwareWB\Backup\Airplane.cs">
+</Event><Event ErrorLevel="0" Project="MarcwareWB" Source="AirplaneRepository.cs" Description="File successfully backed up as D:\home\Code\MarcwareWB\Backup\AirplaneRepository.cs">
+</Event><Event ErrorLevel="0" Project="MarcwareWB" Source="AssemblyInfo.cs" Description="File successfully backed up as D:\home\Code\MarcwareWB\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MarcwareWB" Source="EnvironmentEx.cs" Description="File successfully backed up as D:\home\Code\MarcwareWB\Backup\EnvironmentEx.cs">
+</Event><Event ErrorLevel="0" Project="MarcwareWB" Source="FuelCalculator.cs" Description="File successfully backed up as D:\home\Code\MarcwareWB\Backup\FuelCalculator.cs">
+</Event><Event ErrorLevel="0" Project="MarcwareWB" Source="LimitGraph.cs" Description="File successfully backed up as D:\home\Code\MarcwareWB\Backup\LimitGraph.cs">
+</Event><Event ErrorLevel="0" Project="MarcwareWB" Source="MainForm.cs" Description="File successfully backed up as D:\home\Code\MarcwareWB\Backup\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="MarcwareWB" Source="Station.cs" Description="File successfully backed up as D:\home\Code\MarcwareWB\Backup\Station.cs">
+</Event><Event ErrorLevel="0" Project="MarcwareWB" Source="StationMode.cs" Description="File successfully backed up as D:\home\Code\MarcwareWB\Backup\StationMode.cs">
+</Event><Event ErrorLevel="0" Project="MarcwareWB" Source="StationView.cs" Description="File successfully backed up as D:\home\Code\MarcwareWB\Backup\StationView.cs">
+</Event><Event ErrorLevel="0" Project="MarcwareWB" Source="Test\AirplaneTest.cs" Description="File successfully backed up as D:\home\Code\MarcwareWB\Backup\Test\AirplaneTest.cs">
+</Event><Event ErrorLevel="0" Project="MarcwareWB" Source="Test\FuelCalculatorTest.cs" Description="File successfully backed up as D:\home\Code\MarcwareWB\Backup\Test\FuelCalculatorTest.cs">
+</Event><Event ErrorLevel="0" Project="MarcwareWB" Source="install.ini" Description="File successfully backed up as D:\home\Code\MarcwareWB\Backup\install.ini">
+</Event><Event ErrorLevel="0" Project="MarcwareWB" Source="eula.txt" Description="File successfully backed up as D:\home\Code\MarcwareWB\Backup\eula.txt">
+</Event><Event ErrorLevel="0" Project="MarcwareWB" Source="icon.ico" Description="File successfully backed up as D:\home\Code\MarcwareWB\Backup\icon.ico">
+</Event><Event ErrorLevel="0" Project="MarcwareWB" Source="MarcwareWB_PPC.inf" Description="File successfully backed up as D:\home\Code\MarcwareWB\Backup\MarcwareWB_PPC.inf">
+</Event><Event ErrorLevel="0" Project="MarcwareWB" Source="readme.txt" Description="File successfully backed up as D:\home\Code\MarcwareWB\Backup\readme.txt">
+</Event><Event ErrorLevel="0" Project="MarcwareWB" Source="MainForm.resx" Description="File successfully backed up as D:\home\Code\MarcwareWB\Backup\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="MarcwareWB" Source="MarcwareWB.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MarcwareWB" Source="MarcwareWB.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MarcwareWB.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MarcwareWB.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MarcwareWB" Source="MainForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="MarcwareWB" Source="MainForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MarcwareWB" Source="MarcwareWB.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

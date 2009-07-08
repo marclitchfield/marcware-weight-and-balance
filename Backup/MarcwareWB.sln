@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "MarcwareWB", "MarcwareWB.csdproj", "{71562C72-234D-44F9-82EF-C496AC14815D}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{71562C72-234D-44F9-82EF-C496AC14815D}.Debug.ActiveCfg = Debug|Pocket PC
+		{71562C72-234D-44F9-82EF-C496AC14815D}.Debug.Build.0 = Debug|Pocket PC
+		{71562C72-234D-44F9-82EF-C496AC14815D}.Debug.Deploy.0 = Debug|Pocket PC
+		{71562C72-234D-44F9-82EF-C496AC14815D}.Release.ActiveCfg = Release|Pocket PC
+		{71562C72-234D-44F9-82EF-C496AC14815D}.Release.Build.0 = Release|Pocket PC
+		{71562C72-234D-44F9-82EF-C496AC14815D}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
